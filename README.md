@@ -7,7 +7,7 @@
 > 
 > Software engineer at **Optilian**
 
-  <img align="right" alt="Avatar" src="https://github.com/JohnARI/JohnARI/blob/master/images/avatar.png" />
+  <img align="right" alt="Avatar" src="https://github.com/JohnARI/JohnARI/blob/main/images/avatar.png" />
 
 <div align="left">
   <a href="mailto:john.aristosa@hotmail.com">
