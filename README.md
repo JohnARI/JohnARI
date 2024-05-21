@@ -21,7 +21,7 @@
 
 ## 📊 My GitHub Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnARI&theme=dark&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000" alt="John's GitHub stats" />
+  <img src="https://github-readme-stats-git-master-johns-projects-af560a6d.vercel.app/api?username=JohnARI&theme=dark&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000" alt="John's GitHub stats" />
 </div>
 
 ## 🧰 Tools:
