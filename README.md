@@ -19,12 +19,12 @@
 </div>
 
 
-## 📊 My GitHub Stats:
+### 📊 My GitHub Stats:
 <div>
   <img src="https://github-readme-stats-git-master-johns-projects-af560a6d.vercel.app/api?username=JohnARI&theme=dark&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_rank=true&show_icons=true&hide_border=true&bg_color=00000000" alt="John's GitHub stats" />
 </div>
 
-## 🧰 Tools:
+### 🧰 Tools:
 <div>
   <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:10px;" />
@@ -41,7 +41,7 @@
 </div>
 </br>
 
-## 💻 Technologies:
+### 💻 Technologies:
 <div>
   <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" />
