@@ -5,7 +5,7 @@
 > [!NOTE]
 > 21 years old French student
 > 
-> Software engineer at **Optilian**
+> Software & ML engineer at **Sopra Steria**
 
   <img align="right" alt="Avatar" src="https://github.com/JohnARI/JohnARI/blob/main/images/avatar.png" />
 
