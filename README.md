@@ -1,9 +1,9 @@
 # 👋 Hello, i'm John
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFD700&vCenter=true&random=false&width=320&height=23&lines=Student+at+Epitech+Technology;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFD700&vCenter=true&random=false&width=320&height=23&lines=Software+And+Data+Engineer)](https://git.io/typing-svg)
 
 > [!NOTE]
-> 22 years old French student
+> 23 years old French student
 > 
 > Software & ML engineer at **Sopra Steria**
 
