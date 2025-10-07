@@ -7,8 +7,6 @@
 > 
 > Software & ML engineer at **Sopra Steria**
 
-  <img align="right" alt="Avatar" src="https://github.com/JohnARI/JohnARI/blob/main/images/avatar.png" />
-
 <div align="left">
   <a href="mailto:john.aristosa@hotmail.com">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_outlook-512.png" height="50" width="50" alt="Outlook" align="right">
