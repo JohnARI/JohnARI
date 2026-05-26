@@ -1,12 +1,12 @@
 ### John Aristosa
 **Software & Data Engineer** @ Sopra Steria
 
-I build backend services and data/ML pipelines. My focus: Python systems that handle complexity reliably, APIs, async workflows, and applied LLM architectures.
+I build backend services and data/ML pipelines. My focus: Systems that handle complexity reliably, APIs and async workflowses.
 
 ---
 
 #### Core stack
-- **Backend**: Python (FastAPI, async), Java (Spring), PostgreSQL
+- **Backend**: Python (FastAPI), Java (Spring), Node.js
 - **Data / ML**: PyTorch, scikit-learn, embeddings & vector stores, RAG pipelines
 - **Infra**: Docker, Linux, REST/Webhook integrations
 
@@ -17,4 +17,4 @@ I build backend services and data/ML pipelines. My focus: Python systems that ha
 
 ---
 
-📍 Paris · 🇫🇷 / 🇬🇧
+📍 Paris · 🇫🇷
